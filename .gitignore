@@ -1,0 +1,4 @@
+/softhsm2-pkcs11-go-example
+softhsm2-tokens/
+*.pem
+*.conf
